@@ -46,4 +46,4 @@ This project is licensed under the MIT license.
 [License: MIT]
 
 # Future Development
-This is a challenge from UTSA Module 19 and was is currently not complete. If you are looking at this as a resource, it is important to note that there are still numerous errors that need to be figured out. 
+This is a challenge from UTSA Module 19 and is currently not complete. If you are looking at this as a resource, it is important to note that there are still numerous errors that need to be figured out. 
