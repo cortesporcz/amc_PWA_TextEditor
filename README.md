@@ -40,6 +40,10 @@ THEN I should have proper build scripts for a webpack application
 # Mock-Up
 https://github.com/cortesporcz/amc_PWA_TextEditor/blob/main/README.md
 
+https://amc-pwa-texteditor.onrender.com
+
+![alt text](failedRENDER_Challenge19.png)
+
 # License
 This project is licensed under the MIT license.
 
